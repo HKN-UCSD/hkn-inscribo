@@ -1,0 +1,49 @@
+{ 'date': 'Tuesday, November 26, 2019',
+  'description': 'Ever wondered how you can make the most out of your amazon '
+                 'echo? Or do you want to make Alexa perform unique actions '
+                 'based on what you design? Come out to the Alexa Skills '
+                 'Workshop to learn how to create your own skill! ',
+  'location': ['EBU I Henry Booker Room'],
+  'time': 'Tuesday, November 26, 2019 at 7:00 PM – 8:30 PM PST',
+  'title': ['HKN x IEEE - Alexa Skills Workshop'],
+  'urls': { 'banner': 'https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-0/s526x296/76686323_2798783920185813_8682976120640897024_o.jpg?_nc_cat=105&_nc_ohc=LL5zD7ikMKEAQlcnNUK2AfJppxzQfJFX8hLnIByfYF1Ku2JfWyX9-3wyQ&_nc_ht=scontent-lax3-1.xx&oh=eaf670f052a335db29b1ce04e889f89d&oe=5E6E0A67',
+            'fb': 'https://www.facebook.com/events/572493850165742/',
+            'rsvp': ''}}
+{ 'date': 'Monday, November 25, 2019',
+  'description': 'Come join HKN for a bowling night, we will provide the food '
+                 'at the bowling event. Just come out, pay for shoes and we '
+                 'will all pitch in for lanes and have fun all night. If you '
+                 'are having trouble finding rides let us know and we will try '
+                 'to figure it out. We have a few rides lined up and we are '
+                 'planning on meeting up in front of Jacobs at 5:30PM. Rides '
+                 'will be distributed first come first serve. Hope to see you '
+                 'there',
+  'location': ['Kearny Mesa Bowl'],
+  'time': 'Monday, November 25, 2019 at 7:00 PM – 9:00 PM PST',
+  'title': ['Bowling and Boba'],
+  'urls': { 'banner': 'https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/s720x720/76726010_2818683374862534_4376385943058251776_n.jpg?_nc_cat=111&_nc_ohc=_v2sLncNHEwAQlIKORTaMBm7-Ajr15yvIJvMgaBKXq1nWsF3Ad3EOE-KA&_nc_ht=scontent-lax3-2.xx&oh=3f30e9472878b78ed83d29cfd13745e9&oe=5E6A186E',
+            'fb': 'https://www.facebook.com/events/2173701746067049/',
+            'rsvp': ''}}
+{ 'date': 'Monday, December 2, 2019',
+  'description': 'Want to hear what your classmates have been thinking about, '
+                 'or their hidden talents? Would you like to share something '
+                 "you've been thinking about out or your hidden talent? Come "
+                 'out to our HKN Talks event. We are having an open mic night '
+                 'to learn from each other. Food will be provided.',
+  'location': ['Jacobs Hall 2315'],
+  'time': 'Monday, December 2, 2019 at 7:00 PM – 9:00 PM PST',
+  'title': ['HKN Talks'],
+  'urls': { 'banner': 'https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/s720x720/77017244_2808533795877492_2040360755546554368_n.jpg?_nc_cat=108&_nc_ohc=Ev8JF3wefvEAQmleoM4SKd5Gf3pAayOGHglLshdxWyFGDbw2Im60jGk1g&_nc_ht=scontent-lax3-1.xx&oh=7ded13d6af621254d54ec1f568816e19&oe=5EB18D1F',
+            'fb': 'https://www.facebook.com/events/1341938379320787/',
+            'rsvp': ''}}
+{ 'date': 'Friday, January 17, 2020',
+  'description': 'Come out and build awesome projects over 24 hours using '
+                 'Hardware we provide (You can bring your own parts if you '
+                 'want just make sure they are not complete projects)! '
+                 'Participation is free and food will be provided!!',
+  'location': ['Price Center'],
+  'time': 'Jan 17, 2020 at 6:00 PM – Jan 18, 2020 at 10:00 PM PST',
+  'title': ['HARD Hack'],
+  'urls': { 'banner': 'https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-0/p526x296/73185023_2462568487162562_6836751816768618496_o.jpg?_nc_cat=108&_nc_ohc=hRX7SOrprHgAQkWQwIxxroe9d8S8As2yxguiZV3bzBjYU_LjH8BfefmXg&_nc_ht=scontent-lax3-1.xx&oh=123956e17d6c41b75f09a5bdd2579ca9&oe=5E731A33',
+            'fb': 'https://www.facebook.com/events/2654179024633236/',
+            'rsvp': 'https://docs.google.com/forms/d/e/1FAIpQLSdbl9c6pky655EEIW6OiPQEGu6fMDFjvvTaj7RowL8P9KL-iA/viewform'}}
